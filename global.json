@@ -2,5 +2,8 @@
 	"sources": [
 		"src",
 		"tests"
+	],
+	"projects": [
+		"src"	
 	]
 }
