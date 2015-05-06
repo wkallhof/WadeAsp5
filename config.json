@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "WadeAsp5"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WadeAsp5-7ec166d9-dd0f-4d94-97fd-4d27b5d6ffce;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
